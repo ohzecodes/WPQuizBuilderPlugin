@@ -7,7 +7,8 @@
  * Author: ohzecodes
  * Author URI: 
  * Text Domain: 
- * License: 
+ * License: GNU
+ * Date: 2019 JUN 10
  */
 
 // Exit if accessed directly

@@ -1,3 +1,4 @@
+<?php
 public function quiz_shortcode($atts) {
     ob_start();
     
